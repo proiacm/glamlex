@@ -7,12 +7,28 @@ import Offer from './Offer/Offer';
 
 class App extends Component {
 
+  state = {
+    services: [
+      {name: 'Makeup'},
+      {name: 'Hair'},
+      {name: 'Nails'}
+    ]
+  }
+
   render() {
+
+    let servicesOffered = <div>
+      {this.state.services.map((service, index) => {
+        return <Offer key={index} name={service.name}/>
+      })}
+    </div> 
+
     return (
       <div className="App">
         <Nav />
         <About />
-        <Offer />
+        <h1>Services</h1>
+        {servicesOffered}
         <Appointment />
       </div>
     );

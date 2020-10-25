@@ -1,12 +1,12 @@
 import React from 'react';
 import './Offer.css';
 
-const Offer = () => {
+const Offer = (props) => {
 
     return (
-        <div className='offer'>
-            <h1>Services</h1>
-        </div>
+            <div className='offer'>
+                {props.name}
+            </div>
     )
 }
 
