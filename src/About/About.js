@@ -5,6 +5,7 @@ const About = () => {
 
     return (
         <div className='about'>
+            <img src='https://i.imgur.com/2xgLgzn.jpg' height='300' width='290'/>
             <h1>Alex Lamonte</h1>
             <p>
             Lorem ipsum dolor sit amet, euismod adversarium eum ut. Tation aperiri ut has, meis diceret ut nec. 
