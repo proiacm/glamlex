@@ -3,7 +3,7 @@
 
 Glamlex is a `Single Page App` built for a local salon owner.
 
-![](https://i.imgur.com/r2Wh0dR.gifv)
+![]('https://i.imgur.com/r2Wh0dR.gif)
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
