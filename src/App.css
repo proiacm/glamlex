@@ -2,9 +2,14 @@
   text-align: center;
   background-color: black;
   color: antiquewhite;
+  font-family: 'Poiret One', cursive;
 }
 
 .services {
   margin-left: 250px;
   margin-right: 50px;
+}
+
+p {
+  font-weight: bold;
 }

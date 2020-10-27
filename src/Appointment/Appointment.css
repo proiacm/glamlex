@@ -4,16 +4,6 @@
     margin-top: 150px;
 }
 
-.form {
-    display: grid;
-    width: 500px;
-    height: 200px;
-    margin-left: 250px;
-    margin-right: 50px;
-    margin-bottom: 50px;
-   
-}
-
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -22,7 +12,9 @@ input[type=text], select, textarea {
     box-sizing: border-box; /* Make sure that padding and width stays in place */
     margin-top: 6px; /* Add a top margin */
     margin-bottom: 10px; /* Bottom margin */
-    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+    font-family: 'Poiret One', cursive;
+    font-size: medium;
   }
   
   input[type=submit] {
@@ -32,18 +24,22 @@ input[type=text], select, textarea {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    font-family: 'Poiret One', cursive;
+    font-size: medium;
   }
   
   input[type=submit]:hover {
-    background-color: goldenrod;
+    background-color: #2E151B;
   }
 
   .container {
-    border-radius: 5px;
+    border-radius: 4px;
     background-color: #f2f2f2;
     padding: 20px;
     margin-left: 218px;
     margin-right: 50px;
     margin-bottom: 50px;
     width: 500px;
+    border: 1px solid #2E151B;
+    box-shadow: 0 2px 9px #9099A2;
   }
