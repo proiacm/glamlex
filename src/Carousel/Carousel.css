@@ -1,15 +1,10 @@
-.about {
+.carousel {
     margin-left: 250px;
     margin-right: 50px;
-    margin-bottom: 110px;
-}
-
-.Alex-img {
+    height: 500px;
     border: 1px solid #9099A2;
     box-shadow: 0 2px 9px #9099A2;
     border-radius: 4px;
     padding: 5px;
-    width: 200px;
-    margin-right: 20px;
     margin-top: 20px;
 }

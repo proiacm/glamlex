@@ -5,7 +5,9 @@ const Offer = (props) => {
 
     return (
             <div className='offer'>
-                {props.name}
+               <h3>{props.name}</h3> 
+              <p>{props.desc}</p>
+              <p>{props.price}</p>
             </div>
     )
 }
