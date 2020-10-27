@@ -24,7 +24,6 @@ const About = () => {
             ei animal ullamcorper vis. Omittam expetendis te est, prompta denique at mea. Et hinc everti facilisis eam, ut eos aliquando concludaturque.
             Simul vitae vel an, cum ea copiosae ocurreret. Graecis splendide eu nec. Eu usu putant facilisis vulputate, malis harum antiopam et est. 
             </p>
-           <hr/>
         </div>
     )
 }

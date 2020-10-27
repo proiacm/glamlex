@@ -9,14 +9,14 @@
     padding-top: 20px;
     background-image: linear-gradient(to top, rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 60%), url('https://i.imgur.com/j8KVXI4.jpg');
     opacity: 90%;
-    border: solid 1px #9099A2;
+    box-shadow: 0 2px 9px #9099A2;
   }
 
   .sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 20px;
-    color: white;
+    color: antiquewhite;
     display: block;
     border: none;
     background: none;
