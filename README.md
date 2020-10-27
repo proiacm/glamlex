@@ -1,7 +1,7 @@
 # Glamlex
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
-Glamlex is a `Single Page App` built for a local salon owner.
+Glamlex is a `Single Page App` built using React.js for a salon owner.
 
 ![](https://i.imgur.com/r2Wh0dR.gif)
 
