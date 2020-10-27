@@ -10,9 +10,9 @@ class App extends Component {
 
   state = {
     services: [
-      {name: 'Makeup', desc: 'What I offer..', price: '$$$'},
-      {name: 'Hair', desc: 'What I offer..', price: '$$$'},
-      {name: 'Nails', desc: 'What I offer..', price: '$$$'}
+      {name: 'Makeup 💄', desc: 'What I offer..', price: '$$$'},
+      {name: 'Hair ✂️', desc: 'What I offer..', price: '$$$'},
+      {name: 'Nails 💅', desc: 'What I offer..', price: '$$$'}
     ]
   }
 

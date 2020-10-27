@@ -43,3 +43,11 @@ input[type=text], select, textarea {
     border: 1px solid #2E151B;
     box-shadow: 0 2px 9px #9099A2;
   }
+
+  .img-link {
+      margin-bottom: 10px;
+  }
+  .img-link:hover {
+    transform: scale(1.5);
+    transition: 700ms;
+    }

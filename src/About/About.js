@@ -3,10 +3,12 @@ import './About.css';
 
 const About = () => {
 
+
     return (
         <div className='about' id='about'>
             <img className='Alex-img' src='https://i.imgur.com/2xgLgzn.jpg'/>
             <h1>Alex Lamonte</h1>
+            <h2>Cosmetologist</h2>
             <p>
             Lorem ipsum dolor sit amet, euismod adversarium eum ut. Tation aperiri ut has, meis diceret ut nec. 
             Vis perpetua inciderint in, sea assum choro ut, vel reprimique sadipscing ad. Nam eu liber ancillae accommodare.
