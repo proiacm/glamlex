@@ -3,7 +3,7 @@
 
 Glamlex is a `Single Page App` built using React.js for a salon owner.
 
-![](https://i.imgur.com/r2Wh0dR.gif)
+![](https://i.imgur.com/MAwJmhO.gif)
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
