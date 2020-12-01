@@ -1,0 +1,14 @@
+.gallery {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 325px 325px 120px;
+  margin: 0 auto 20px;
+  max-width: 80vw;
+}
+
+.col-img {
+  width: 100%;
+  padding-left: 100px;
+  object-fit: cover;
+}
