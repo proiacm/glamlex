@@ -1,7 +1,7 @@
 .appointment {
     margin-left: 250px;
     margin-right: 50px;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 
 input[type=text], select, textarea {
@@ -29,7 +29,7 @@ input[type=text], select, textarea {
   }
   
   input[type=submit]:hover {
-    background-color: #2E151B;
+    background-color: #ccc;
   }
 
   .container {
@@ -40,7 +40,6 @@ input[type=text], select, textarea {
     margin-right: 50px;
     margin-bottom: 50px;
     width: 500px;
-    border: 1px solid #2E151B;
     box-shadow: 0 2px 9px #9099A2;
   }
 
