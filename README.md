@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://i.imgur.com/MAwJmhO.gif)
+![](https://i.imgur.com/thndHIJ.gifv)
 
 ### Built With
 * [React](https://react.org)
