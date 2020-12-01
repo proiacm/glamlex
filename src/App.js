@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
+import Gallery from './Gallery/Gallery';
 import About from './About/About';
 import './App.css';
 import Appointment from './Appointment/Appointment';
-import Carousel from './Carousel/Carousel';
 import Nav from './Nav/Nav';
 import Offer from './Offer/Offer';
 
@@ -10,15 +10,15 @@ class App extends Component {
 
   state = {
     services: [
-      {name: 'Makeup 💄', desc: 'What I offer..', price: '$$$'},
-      {name: 'Hair ✂️', desc: 'What I offer..', price: '$$$'},
-      {name: 'Nails 💅', desc: 'What I offer..', price: '$$$'}
+      {name: 'Makeup 💄', desc: 'Services offered...', price: '$$$'},
+      {name: 'Hair ✂️', desc: 'Services offered...', price: '$$$'},
+      {name: 'Nails 💅', desc: 'Services offered...', price: '$$$'}
     ]
   }
 
   render() {
 
-    let servicesOffered = <div>
+    let services = <div>
       {this.state.services.map((service, index) => {
         return <Offer key={index} name={service.name} desc={service.desc} price={service.price}/>
       })}
@@ -28,9 +28,8 @@ class App extends Component {
       <div className="App">
         <Nav />
         <About />
-        <h1 className='services' id='offer'>Services</h1>
-        {servicesOffered}
-        <Carousel />
+        {services}
+        <Gallery />
         <Appointment />
       </div>
     );
