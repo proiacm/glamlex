@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Glamlex/static/css/main.d9f018cc.chunk.css",
+    "main.css": "/Glamlex/static/css/main.3b4e3467.chunk.css",
     "main.js": "/Glamlex/static/js/main.b4dceb01.chunk.js",
     "main.js.map": "/Glamlex/static/js/main.b4dceb01.chunk.js.map",
     "runtime-main.js": "/Glamlex/static/js/runtime-main.38c0b43b.js",
@@ -10,7 +10,7 @@
     "static/js/3.ee25125a.chunk.js": "/Glamlex/static/js/3.ee25125a.chunk.js",
     "static/js/3.ee25125a.chunk.js.map": "/Glamlex/static/js/3.ee25125a.chunk.js.map",
     "index.html": "/Glamlex/index.html",
-    "static/css/main.d9f018cc.chunk.css.map": "/Glamlex/static/css/main.d9f018cc.chunk.css.map",
+    "static/css/main.3b4e3467.chunk.css.map": "/Glamlex/static/css/main.3b4e3467.chunk.css.map",
     "static/js/2.4d15b36a.chunk.js.LICENSE.txt": "/Glamlex/static/js/2.4d15b36a.chunk.js.LICENSE.txt",
     "static/media/Nav.css": "/Glamlex/static/media/colors.0e464da8.gif",
     "static/media/eyes.e61e3849.png": "/Glamlex/static/media/eyes.e61e3849.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.38c0b43b.js",
     "static/js/2.4d15b36a.chunk.js",
-    "static/css/main.d9f018cc.chunk.css",
+    "static/css/main.3b4e3467.chunk.css",
     "static/js/main.b4dceb01.chunk.js"
   ]
 }
