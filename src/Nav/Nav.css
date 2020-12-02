@@ -2,14 +2,8 @@
     height: 100%;
     width: 250px;
     position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
     padding-top: 20px;
     background-color: #19181a ;
-    opacity: 90%;
-    /* box-shadow: 0 2px 9px #9099A2; */
   }
 
   .sidenav a {
@@ -47,8 +41,15 @@
   }
  
   @media only screen and (max-width: 600px){
+    /* .sidenav {
+    position: relative;
+    width: 100%;
+    background-color: #212122;
+    padding-bottom: 80px;
+    } */
+
     .sidenav {
-      display: none; 
+      display: none;
     }
   }   
   
