@@ -8,7 +8,7 @@ const Appointment = () => {
     return (
         <div className='appointment' id='appointment'>
             <h1>Request an Appointment</h1>
-            <p>Colorado Springs, CO &hearts; (000)000-0000</p> <br/>
+            <p><strong>Colorado Springs, CO - (123)456-7890</strong></p> <br/>
             <div className='container'>
                 <input type="text" id="name" name="name" placeholder="Name"/>
                 <input type="text" id="email" name="email" placeholder="Email"/>
