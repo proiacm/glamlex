@@ -16,8 +16,8 @@ const Gallery = () => {
         <img className='col-img' src={img2}/>
         <img className='col-img' src={img3}/> 
         <img className='col-img' src={img4}/> 
-        <img className='col-img' src={img5}/> 
-        <img className='col-img' src={img6}/>  
+        <img className='col-img' src={img6}/> 
+        <img className='col-img' src={img5}/>  
      </div>
   )
 }

@@ -2,9 +2,9 @@
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 325px 325px 120px;
+  grid-template-rows: 390px 325px 120px;
   margin: 0 auto 20px;
-  max-width: 80vw;
+  max-width: 70vw;
 }
 
 .col-img {
@@ -12,3 +12,21 @@
   padding-left: 100px;
   object-fit: cover;
 }
+
+@media only screen and (max-width: 600px){
+  .gallery {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 170px 200px 120px;
+    margin: 0 auto 20px;
+    max-width: 95vw;
+    padding-bottom: 100px;
+  }
+
+  .col-img {
+    width: 100%;
+    padding-left: 1px;
+    padding-top: 100px;
+  }
+} 
