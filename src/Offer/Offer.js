@@ -5,10 +5,10 @@ const Offer = (props) => {
 
     return (
             <div className='offer' id='offer'>
-               <h2><u>{props.name}</u></h2> ...<br/><br/><br/>
+               <h2><u>{props.name}</u></h2>
               <p className='services-text'>{props.desc}</p> ...<br/><br/><br/>
-              <p>{props.price}</p>... <br/><br/><br/>
-            </div>
+              <p>{props.price}</p>
+            </div>   
     )
 }
 
