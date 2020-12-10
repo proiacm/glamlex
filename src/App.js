@@ -5,7 +5,6 @@ import './App.css';
 import Appointment from './Appointment/Appointment';
 import Nav from './Nav/Nav';
 import Offer from './Offer/Offer';
-import lips from './Images/lips.png';
 
 class App extends Component {
 
@@ -30,7 +29,6 @@ class App extends Component {
         <Nav />
         <About />
         {services}
-        <img className='lip-img' src={lips}/>
         <Gallery />
         <Appointment />
       </div>
