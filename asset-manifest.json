@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Glamlex/static/css/main.76443e34.chunk.css",
-    "main.js": "/Glamlex/static/js/main.b4dceb01.chunk.js",
-    "main.js.map": "/Glamlex/static/js/main.b4dceb01.chunk.js.map",
+    "main.css": "/Glamlex/static/css/main.f8beff30.chunk.css",
+    "main.js": "/Glamlex/static/js/main.d500d65d.chunk.js",
+    "main.js.map": "/Glamlex/static/js/main.d500d65d.chunk.js.map",
     "runtime-main.js": "/Glamlex/static/js/runtime-main.38c0b43b.js",
     "runtime-main.js.map": "/Glamlex/static/js/runtime-main.38c0b43b.js.map",
     "static/js/2.4d15b36a.chunk.js": "/Glamlex/static/js/2.4d15b36a.chunk.js",
@@ -10,13 +10,10 @@
     "static/js/3.ee25125a.chunk.js": "/Glamlex/static/js/3.ee25125a.chunk.js",
     "static/js/3.ee25125a.chunk.js.map": "/Glamlex/static/js/3.ee25125a.chunk.js.map",
     "index.html": "/Glamlex/index.html",
-    "static/css/main.76443e34.chunk.css.map": "/Glamlex/static/css/main.76443e34.chunk.css.map",
+    "static/css/main.f8beff30.chunk.css.map": "/Glamlex/static/css/main.f8beff30.chunk.css.map",
     "static/js/2.4d15b36a.chunk.js.LICENSE.txt": "/Glamlex/static/js/2.4d15b36a.chunk.js.LICENSE.txt",
-    "static/media/Nav.css": "/Glamlex/static/media/colors.0e464da8.gif",
-    "static/media/eyes.e61e3849.png": "/Glamlex/static/media/eyes.e61e3849.png",
     "static/media/facebook.32eb990d.png": "/Glamlex/static/media/facebook.32eb990d.png",
     "static/media/instagram.0317d10f.png": "/Glamlex/static/media/instagram.0317d10f.png",
-    "static/media/lips.c96232ce.png": "/Glamlex/static/media/lips.c96232ce.png",
     "static/media/m1.a8c1c982.jpg": "/Glamlex/static/media/m1.a8c1c982.jpg",
     "static/media/m2.e390be05.jpg": "/Glamlex/static/media/m2.e390be05.jpg",
     "static/media/m3.4ac41d05.jpg": "/Glamlex/static/media/m3.4ac41d05.jpg",
@@ -27,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.38c0b43b.js",
     "static/js/2.4d15b36a.chunk.js",
-    "static/css/main.76443e34.chunk.css",
-    "static/js/main.b4dceb01.chunk.js"
+    "static/css/main.f8beff30.chunk.css",
+    "static/js/main.d500d65d.chunk.js"
   ]
 }
