@@ -1,55 +1,28 @@
-.sidenav {
-    height: 100%;
-    width: 250px;
-    position: fixed;
-    padding-top: 20px;
-    background-color: #19181a ;
+.nav {
+    background-color: #FFFFFF;
+    padding: 30px;
   }
 
-  .sidenav a {
+  .nav a {
     padding: 6px 8px 6px 16px;
-    text-decoration: none;
     font-size: 20px;
-    color: antiquewhite;
-    display: block;
-    border: none;
-    background: none;
-    width:100%;
+    color: #19181a;
+    display: inline-block;
     text-align: center;
     cursor: pointer;
-    outline: none;
-  }
-  
-  .sidenav a:hover {
     font-weight: bold;
   }
   
-  .main {
-    margin-left: 200px; 
-    font-size: 20px; 
-    padding: 0px 10px;
+  .nav a:hover {
+    font-weight: normal;
   }
   
-  .title {
-    background-image: url('../Images/colors.gif');
-    background-size: cover;
-    color: transparent;
-    -moz-background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-stroke: 0.1px rgba(250, 235, 215, 0.377);
-    font-size: 30px;
-  }
  
   @media only screen and (max-width: 600px){
-    /* .sidenav {
-    position: relative;
-    width: 100%;
-    background-color: #212122;
-    padding-bottom: 80px;
-    } */
 
-    .sidenav {
-      display: none;
+    .nav a {
+      font-size: 6vw;
+     display: inherit;
     }
   }   
   
