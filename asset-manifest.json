@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Glamlex/static/css/main.f8beff30.chunk.css",
-    "main.js": "/Glamlex/static/js/main.d500d65d.chunk.js",
-    "main.js.map": "/Glamlex/static/js/main.d500d65d.chunk.js.map",
-    "runtime-main.js": "/Glamlex/static/js/runtime-main.38c0b43b.js",
-    "runtime-main.js.map": "/Glamlex/static/js/runtime-main.38c0b43b.js.map",
-    "static/js/2.4d15b36a.chunk.js": "/Glamlex/static/js/2.4d15b36a.chunk.js",
-    "static/js/2.4d15b36a.chunk.js.map": "/Glamlex/static/js/2.4d15b36a.chunk.js.map",
-    "static/js/3.ee25125a.chunk.js": "/Glamlex/static/js/3.ee25125a.chunk.js",
-    "static/js/3.ee25125a.chunk.js.map": "/Glamlex/static/js/3.ee25125a.chunk.js.map",
+    "main.css": "/Glamlex/static/css/main.1ca0b956.chunk.css",
+    "main.js": "/Glamlex/static/js/main.5c39978d.chunk.js",
+    "main.js.map": "/Glamlex/static/js/main.5c39978d.chunk.js.map",
+    "runtime-main.js": "/Glamlex/static/js/runtime-main.276a4dce.js",
+    "runtime-main.js.map": "/Glamlex/static/js/runtime-main.276a4dce.js.map",
+    "static/js/2.895017d6.chunk.js": "/Glamlex/static/js/2.895017d6.chunk.js",
+    "static/js/2.895017d6.chunk.js.map": "/Glamlex/static/js/2.895017d6.chunk.js.map",
+    "static/js/3.4d827b27.chunk.js": "/Glamlex/static/js/3.4d827b27.chunk.js",
+    "static/js/3.4d827b27.chunk.js.map": "/Glamlex/static/js/3.4d827b27.chunk.js.map",
     "index.html": "/Glamlex/index.html",
-    "static/css/main.f8beff30.chunk.css.map": "/Glamlex/static/css/main.f8beff30.chunk.css.map",
-    "static/js/2.4d15b36a.chunk.js.LICENSE.txt": "/Glamlex/static/js/2.4d15b36a.chunk.js.LICENSE.txt",
+    "static/css/main.1ca0b956.chunk.css.map": "/Glamlex/static/css/main.1ca0b956.chunk.css.map",
+    "static/js/2.895017d6.chunk.js.LICENSE.txt": "/Glamlex/static/js/2.895017d6.chunk.js.LICENSE.txt",
     "static/media/facebook.32eb990d.png": "/Glamlex/static/media/facebook.32eb990d.png",
     "static/media/instagram.0317d10f.png": "/Glamlex/static/media/instagram.0317d10f.png",
+    "static/media/logotrans.e8b18fc1.png": "/Glamlex/static/media/logotrans.e8b18fc1.png",
     "static/media/m1.a8c1c982.jpg": "/Glamlex/static/media/m1.a8c1c982.jpg",
     "static/media/m2.e390be05.jpg": "/Glamlex/static/media/m2.e390be05.jpg",
     "static/media/m3.4ac41d05.jpg": "/Glamlex/static/media/m3.4ac41d05.jpg",
@@ -22,9 +23,9 @@
     "static/media/m6.c7b65aec.jpg": "/Glamlex/static/media/m6.c7b65aec.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38c0b43b.js",
-    "static/js/2.4d15b36a.chunk.js",
-    "static/css/main.f8beff30.chunk.css",
-    "static/js/main.d500d65d.chunk.js"
+    "static/js/runtime-main.276a4dce.js",
+    "static/js/2.895017d6.chunk.js",
+    "static/css/main.1ca0b956.chunk.css",
+    "static/js/main.5c39978d.chunk.js"
   ]
 }
