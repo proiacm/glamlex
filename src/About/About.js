@@ -1,14 +1,12 @@
 import React from 'react';
 import './About.css';
-// import eyes from '../Images/eyes.png'
 
 const About = () => {
 
 
     return (
         <div className='about' id='about'>
-            {/* <img className='eye-img' src={eyes}/> */}
-            <h1 className='header'>Glamlex by Alex Lamonte</h1>
+            <h1 className='header'>Tagline</h1>
             <p className='about-text'>
             Lorem ipsum dolor sit amet, euismod adversarium eum ut. Tation aperiri ut has, meis diceret ut nec. 
             Vis perpetua inciderint in, sea assum choro ut, vel reprimique sadipscing ad. Nam eu liber ancillae accommodare.

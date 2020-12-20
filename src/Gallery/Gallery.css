@@ -1,15 +1,18 @@
 .gallery {
   display: grid;
-  grid-gap: 30px;
+  grid-gap: 20px;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 390px 325px 120px;
   margin: 0 auto 20px;
   max-width: 70vw;
+  padding-top: 15%;
 }
 
 .col-img {
   width: 100%;
   object-fit: cover;
+  border: 1px solid #60555D;
+  border-radius: 2px;
 }
 
 @media only screen and (max-width: 600px){
@@ -20,12 +23,10 @@
     grid-template-rows: 170px 200px 120px;
     margin: 0 auto 20px;
     max-width: 95vw;
-    padding-bottom: 100px;
   }
 
   .col-img {
     width: 100%;
     padding-left: 1px;
-    padding-top: 200px;
   }
 } 

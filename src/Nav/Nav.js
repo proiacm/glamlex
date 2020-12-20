@@ -1,16 +1,19 @@
 import React from 'react';
 import './Nav.css';
 import {Link} from 'react-scroll';
+import logo from '../Images/logotrans.png';
 
 const Nav = () => {
 
     return (
         <div className="nav">
-        {/* <h2 className='title'>Glamlex <br/>by Alex Lamonte</h2>   */}
-        <Link style={{ cursor: "pointer"}} to="about" spy={true} smooth={true}><u>About</u></Link>
-        <Link style={{ cursor: "pointer"}} to="offer" spy={true} smooth={true}><u>Services</u></Link>
-        <Link style={{ cursor: "pointer"}} to="gallery" spy={true} smooth={true}><u>Gallery</u></Link>
-        <Link style={{ cursor: "pointer"}} to="appointment" spy={true} smooth={true}><u>Appointments</u></Link>
+        <img className='nav-img' src={logo} alt='logo' />
+        <p className='nav-li'> <Link style={{ cursor: "pointer"}} to="appointment" spy={true} smooth={true}>Appointments</Link> </p>
+        <p className='nav-li'> <Link style={{ cursor: "pointer"}} to="gallery" spy={true} smooth={true}>Gallery</Link> </p>
+        <p className='nav-li'> <Link style={{ cursor: "pointer"}} to="offer" spy={true} smooth={true}>Services</Link> </p>
+        <p className='nav-li'> <Link style={{ cursor: "pointer"}} to="about" spy={true} smooth={true}>About</Link> </p>
+        
+
       </div>
     )
 }

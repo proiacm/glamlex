@@ -7,12 +7,13 @@
 .about-text {
     font-family: 'Karla', sans-serif;
     text-align: justify;
-    margin: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .header {
+    padding-top: 7%;
     font-size: 50px;
-    padding-bottom: 5%;
 }
 
 @media only screen and (max-width: 600px){
@@ -20,17 +21,12 @@
       padding-top: 20px;
       margin-left: 10px;
       margin-right: 10px;
-      padding-bottom: 100px;
+      padding-bottom: 5%;
     }
-/* 
-    .eye-img {
-        width: 100%;
-    } */
 
     .about-text {
         font-size: 5vw;
         text-align: justify;
     }
 
-  
   }  

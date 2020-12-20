@@ -10,15 +10,15 @@ class App extends Component {
 
   state = {
     services: [
-      {name: 'Makeup 💄', desc: 'Services offered...', price: '$$$'},
-      {name: 'Hair ✂️', desc: 'Services offered...', price: '$$$'},
-      {name: 'Nails 💅', desc: 'Services offered...', price: '$$$'}
+      {name: 'Makeup', desc: 'Service offered -', price: '$$$'},
+      {name: 'Hair', desc: 'Service offered -', price: '$$$'},
+      {name: 'Nails', desc: 'Service offered -', price: '$$$'}
     ]
   }
 
   render() {
 
-    let services = <div>
+    let services = <div className='offer-container' id='offer'>
       {this.state.services.map((service, index) => {
         return <Offer key={index} name={service.name} desc={service.desc} price={service.price}/>
       })}

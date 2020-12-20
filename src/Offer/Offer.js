@@ -4,10 +4,12 @@ import './Offer.css';
 const Offer = (props) => {
 
     return (
-            <div className='offer' id='offer'>
-               <h2><u>{props.name}</u></h2>
-              <p className='services-text'>{props.desc}</p> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-              <p>{props.price}</p>
+            <div className='offer'>
+               <h2 className='services-title'>{props.name}</h2><br/>
+              <p className='services-text'>{props.desc} {props.price}</p>
+              <p className='services-text'>{props.desc} {props.price}</p>
+              <p className='services-text'>{props.desc} {props.price}</p>
+              <p className='services-text'>{props.desc} {props.price}</p>
             </div>   
     )
 }
