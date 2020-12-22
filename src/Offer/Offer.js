@@ -5,11 +5,19 @@ const Offer = (props) => {
 
     return (
             <div className='offer'>
-               <h2 className='services-title'>{props.name}</h2><br/>
-              <p className='services-text'>{props.desc} {props.price}</p>
-              <p className='services-text'>{props.desc} {props.price}</p>
-              <p className='services-text'>{props.desc} {props.price}</p>
-              <p className='services-text'>{props.desc} {props.price}</p>
+                <ul className='leaders' id='offer'>
+                <h2 className='services-title'>{props.name}</h2>
+                <li className='services-text'><span>{props.desc}</span>
+                <span>{props.price}</span></li>
+                <li className='services-text'><span>{props.desc}</span>
+                <span>{props.price}</span></li>
+                <li className='services-text'><span>{props.desc}</span>
+                <span>{props.price}</span></li>
+                <li className='services-text'><span>{props.desc}</span>
+                <span>{props.price}</span></li>
+                <li className='services-text'><span>{props.desc}</span>
+                <span>{props.price}</span></li>
+                </ul>
             </div>   
     )
 }
