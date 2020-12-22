@@ -1,22 +1,42 @@
-.nav {
+/* .nav {
   position: sticky;
   top: 0;
   z-index: 100;
   padding: 2%;
+} */
+
+.nav {
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
 }
 
-.nav-li {
+.nav::before {    
+    content: "";
+    background-image: url('../Images/landing2.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.5;
+}
+
+/* .nav-li {
+  position: relative;
   font-size: 2vw;
-  color: #60555D;
+  color: #FFFFFF;
   text-decoration: underline;
   text-transform: uppercase;
-  margin-left: 2%;
+  margin-left: 5%;
   margin-right: 2%;
-  float: right;
-}
+} */
 
 .nav-img {
-  width: 20%;
+  position: relative;
+  height: 10%;
   float: left;
 }
 
