@@ -12,12 +12,12 @@ const Gallery = () => {
 
   return (
      <div className='gallery' id='gallery'>
-        <img className='col-img' src={img1}/>
-        <img className='col-img' src={img2}/>
-        <img className='col-img' src={img3}/> 
-        <img className='col-img' src={img4}/> 
-        <img className='col-img' src={img6}/> 
-        <img className='col-img' src={img5}/>  
+        <img className='col-img' src={img1} alt='demo'/>
+        <img className='col-img' src={img2} alt='demo'/>
+        <img className='col-img' src={img3} alt='demo'/> 
+        <img className='col-img' src={img4} alt='demo'/> 
+        <img className='col-img' src={img6} alt='demo'/> 
+        <img className='col-img' src={img5} alt='demo'/>  
      </div>
   )
 }
