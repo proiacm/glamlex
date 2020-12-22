@@ -5,7 +5,7 @@ const About = () => {
 
 
     return (
-        <div className='about' id='about'>
+        <div className='about' id='home'>
             <h1 className='header'>Tagline</h1>
             <p className='about-text'>
             Lorem ipsum dolor sit amet, euismod adversarium eum ut. Tation aperiri ut has, meis diceret ut nec. 
