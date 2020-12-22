@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Gallery from './Gallery/Gallery';
-import About from './About/About';
 import './App.css';
 import Appointment from './Appointment/Appointment';
 import Nav from './Nav/Nav';
@@ -27,7 +26,7 @@ class App extends Component {
     return (
       <div className="App">
         <Nav />
-        <About />
+        {/* <About /> */}
         {services}
         <Gallery />
         <Appointment />
