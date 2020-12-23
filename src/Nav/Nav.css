@@ -16,12 +16,17 @@
     opacity: 0.3;
 }
 
-.nav-img {
+.logo-container {
   position: absolute;
-  width: 40%;
-  margin-left: -50%;
-  margin-top: -10%;
+  top: 50%;
+  transform: translate(0, -50%);
   
+}
+
+.nav-img {
+  width: 40%;
+  margin-left: -15%;
+  margin-top: -10%;
 }
 
 .path {
@@ -42,9 +47,10 @@
 
 .al {
   font-size: 2vw;
-  position: absolute;
-  margin-top: 35%;
-  margin-left: 15%;
+  position: relative;
+  width: 20%;
+  margin-top: -17%;
+  margin-left: 31%;
   color: #222222;
   border-top: 1px solid #222222;
   border-bottom: 1px solid #222222;
@@ -70,6 +76,14 @@
 
   .nav-img {
     width: 90%;
-    float: none;
+    margin-top: -40%;
+  }
+
+
+  .al {
+    font-size: 3.5vw;
+    width: 30%;
+    margin-top: -50%;
+    margin-left: 25%; 
   }
 }
