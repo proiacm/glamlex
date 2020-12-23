@@ -17,10 +17,26 @@
 }
 
 .nav-img {
-  position: relative;
-  width: 30%;
-  margin-top: 10%;
-  margin-left: 5%;
+  position: absolute;
+  width: 50%;
+  
+  
+}
+
+.path {
+  stroke-dasharray: 3000;
+  stroke-dashoffset: 3500;
+  animation: dash 4s linear forwards;
+  animation-delay: 0.5s;
+}
+
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+    transition: transform 900ms linear;
+	  will-change: transform;
+  }
 }
 
 @media screen and (max-width: 600px) {
