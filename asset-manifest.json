@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Glamlex/static/css/main.e9e5cb43.chunk.css",
-    "main.js": "/Glamlex/static/js/main.aec6819b.chunk.js",
-    "main.js.map": "/Glamlex/static/js/main.aec6819b.chunk.js.map",
+    "main.css": "/Glamlex/static/css/main.f5b00401.chunk.css",
+    "main.js": "/Glamlex/static/js/main.466defe8.chunk.js",
+    "main.js.map": "/Glamlex/static/js/main.466defe8.chunk.js.map",
     "runtime-main.js": "/Glamlex/static/js/runtime-main.d3d26118.js",
     "runtime-main.js.map": "/Glamlex/static/js/runtime-main.d3d26118.js.map",
     "static/css/2.ccc6f86f.chunk.css": "/Glamlex/static/css/2.ccc6f86f.chunk.css",
@@ -12,9 +12,8 @@
     "static/js/3.08b54137.chunk.js.map": "/Glamlex/static/js/3.08b54137.chunk.js.map",
     "index.html": "/Glamlex/index.html",
     "static/css/2.ccc6f86f.chunk.css.map": "/Glamlex/static/css/2.ccc6f86f.chunk.css.map",
-    "static/css/main.e9e5cb43.chunk.css.map": "/Glamlex/static/css/main.e9e5cb43.chunk.css.map",
+    "static/css/main.f5b00401.chunk.css.map": "/Glamlex/static/css/main.f5b00401.chunk.css.map",
     "static/js/2.6c91a4a0.chunk.js.LICENSE.txt": "/Glamlex/static/js/2.6c91a4a0.chunk.js.LICENSE.txt",
-    "static/media/glamlogo.0d98dbf0.png": "/Glamlex/static/media/glamlogo.0d98dbf0.png",
     "static/media/Nav.css": "/Glamlex/static/media/landing2.5f39c173.jpg",
     "static/media/m1.a8c1c982.jpg": "/Glamlex/static/media/m1.a8c1c982.jpg",
     "static/media/m2.e390be05.jpg": "/Glamlex/static/media/m2.e390be05.jpg",
@@ -27,7 +26,7 @@
     "static/js/runtime-main.d3d26118.js",
     "static/css/2.ccc6f86f.chunk.css",
     "static/js/2.6c91a4a0.chunk.js",
-    "static/css/main.e9e5cb43.chunk.css",
-    "static/js/main.aec6819b.chunk.js"
+    "static/css/main.f5b00401.chunk.css",
+    "static/js/main.466defe8.chunk.js"
   ]
 }
